@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "u5864817_kelompok8",
+    "password": "kelompok8",
+    "database": "u5864817_data_penelitian",
+    "host": "156.67.212.172",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "u5864817_kelompok8",
+    "password": "kelompok8",
+    "database": "u5864817_data_penelitian",
+    "host": "156.67.212.172",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "u5864817_kelompok8",
+    "password": "kelompok8",
+    "database": "u5864817_data_penelitian",
+    "host": "156.67.212.172",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
+
